@@ -9,17 +9,15 @@
 
 ## Screenshot
 
+|          Screenshot 1          |          Screenshot 2          |
+| :----------------------------: | :----------------------------: |
+| <img src="1.png" width="300"/> | <img src="2.png" width="300"/> |
+
+|          Screenshot 3          |          Screenshot 4          |
+| :----------------------------: | :----------------------------: |
+| <img src="3.png" width="300"/> | <img src="4.png" width="300"/> |
+
 ## Persyaratan Sistem
 
 - Android 5.0 (API level 21) atau lebih tinggi
 - Izin penyimpanan untuk menyimpan hasil enkripsi
-
-## ScreenShot
-
-| | |
-| | |
-| <img src="1.png" width="300"/> | <img src="2.png" width="300"/> |
-
-| | |
-| | |
-| <img src="3.png" width="300"/> | <img src="4.png" width="300"/> |
