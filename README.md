@@ -1,16 +1,25 @@
-# steg_aes_rsa
+## Fitur Utama
 
-A new Flutter project.
+- Enkripsi pesan menggunakan algoritma AES
+- Enkripsi pesan menggunakan algoritma RSA dengan pembangkitan kunci publik & privat
+- Penyembunyian pesan terenkripsi ke dalam gambar (steganografi)
+- Dekripsi pesan dari gambar yang telah disisipi
+- Opsi konversi gambar ke grayscale dengan noise
+- Pengukuran waktu proses enkripsi dan dekripsi
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+## Persyaratan Sistem
 
-A few resources to get you started if this is your first Flutter project:
+- Android 5.0 (API level 21) atau lebih tinggi
+- Izin penyimpanan untuk menyimpan hasil enkripsi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| | |
+| | |
+| <img src="1.png" width="300"/> | <img src="2.png" width="300"/> |
+
+| | |
+| | |
+| <img src="3.png" width="300"/> | <img src="4.png" width="300"/> |
