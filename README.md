@@ -15,6 +15,10 @@
 |          Screenshot 3          |          Screenshot 4          |
 |                                |                                |
 | <img src="3.png" width="300"/> | <img src="4.png" width="300"/> |
+|                                |                                |
+| <img src="5.png" width="300"/> | <img src="6.png" width="300"/> |
+|                                |                                |
+| <img src="7.png" width="300"/> |
 
 ## Persyaratan Sistem
 

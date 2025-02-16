@@ -1,3 +1,6 @@
+import 'package:steg_aes_rsa/app/routes/analytics_aes_routes.dart';
+import 'package:steg_aes_rsa/app/routes/analytics_rsa_routes.dart';
+
 import 'decrypt_aes_routes.dart';
 import 'decrypt_rsa_routes.dart';
 import 'encrypt_aes_routes.dart';
@@ -15,5 +18,7 @@ class AppPages {
     ...EncryptRsaRoutes.routes,
     ...DecryptAesRoutes.routes,
     ...DecryptRsaRoutes.routes,
+    ...AnalyticsRsaRoutes.routes,
+    ...AnalyticsAesRoutes.routes,
   ];
 }

@@ -3,6 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:steg_aes_rsa/app/routes/analytics_aes_routes.dart';
+import 'package:steg_aes_rsa/app/routes/analytics_rsa_routes.dart';
 import 'package:steg_aes_rsa/app/routes/decrypt_aes_routes.dart';
 import 'package:steg_aes_rsa/app/routes/decrypt_rsa_routes.dart';
 import 'package:steg_aes_rsa/app/routes/encrypt_aes_routes.dart';
@@ -183,7 +185,7 @@ class HomePage extends GetView<HomeController> {
                               borderRadius:
                                   BorderRadius.all(Radius.circular(12.0)),
                               onTap: () {
-                                // Get.toNamed(AnalyticsRoutes.analytics);
+                                Get.toNamed(AnalyticsAesRoutes.analyticsAes);
                               },
                               child: Image.asset(
                                 "assets/analytics.png",
@@ -210,7 +212,7 @@ class HomePage extends GetView<HomeController> {
                               borderRadius:
                                   BorderRadius.all(Radius.circular(12.0)),
                               onTap: () {
-                                // Get.toNamed(AnalyticsRsaRoutes.analyticsRsa);
+                                Get.toNamed(AnalyticsRsaRoutes.analyticsRsa);
                               },
                               child: Image.asset(
                                 "assets/analytics.png",
