@@ -11,9 +11,9 @@
 
 |          Screenshot 1          |          Screenshot 2          |          Screenshot 3          |
 | :----------------------------: | :----------------------------: | :----------------------------: |
-| <img src="1.png" width="250"/> | <img src="2.png" width="250"/> | <img src="3.png" width="250"/> |
+| <img src="1.png" width="230"/> | <img src="2.png" width="230"/> | <img src="3.png" width="230"/> |
 |          Screenshot 4          |          Screenshot 5          |          Screenshot 6          |
-| <img src="4.png" width="250"/> | <img src="5.png" width="250"/> | <img src="6.png" width="250"/> |
+| <img src="4.png" width="230"/> | <img src="5.png" width="230"/> | <img src="6.png" width="230"/> |
 
 ## Persyaratan Sistem
 
