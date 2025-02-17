@@ -11,11 +11,11 @@
 
 |          Screenshot 1          |          Screenshot 2          |
 | :----------------------------: | :----------------------------: |
-| <img src="1.png" width="300"/> | <img src="2.png" width="300"/> |
+| <img src="1.png" width="120"/> | <img src="2.png" width="120"/> |
 |          Screenshot 3          |          Screenshot 4          |
-| <img src="3.png" width="300"/> | <img src="4.png" width="300"/> |
+| <img src="3.png" width="120"/> | <img src="4.png" width="120"/> |
 |          Screenshot 5          |          Screenshot 6          |
-| <img src="5.png" width="300"/> | <img src="6.png" width="300"/> |
+| <img src="5.png" width="120"/> | <img src="6.png" width="120"/> |
 
 ## Persyaratan Sistem
 
